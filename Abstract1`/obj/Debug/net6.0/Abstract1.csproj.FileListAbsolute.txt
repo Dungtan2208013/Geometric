@@ -1,0 +1,15 @@
+E:\SEM2\C#\Buoi6\View\Abstract1`\bin\Debug\net6.0\Abstract1.exe
+E:\SEM2\C#\Buoi6\View\Abstract1`\bin\Debug\net6.0\Abstract1.deps.json
+E:\SEM2\C#\Buoi6\View\Abstract1`\bin\Debug\net6.0\Abstract1.runtimeconfig.json
+E:\SEM2\C#\Buoi6\View\Abstract1`\bin\Debug\net6.0\Abstract1.dll
+E:\SEM2\C#\Buoi6\View\Abstract1`\bin\Debug\net6.0\Abstract1.pdb
+E:\SEM2\C#\Buoi6\View\Abstract1`\obj\Debug\net6.0\Abstract1.csproj.AssemblyReference.cache
+E:\SEM2\C#\Buoi6\View\Abstract1`\obj\Debug\net6.0\Abstract1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM2\C#\Buoi6\View\Abstract1`\obj\Debug\net6.0\Abstract1.AssemblyInfoInputs.cache
+E:\SEM2\C#\Buoi6\View\Abstract1`\obj\Debug\net6.0\Abstract1.AssemblyInfo.cs
+E:\SEM2\C#\Buoi6\View\Abstract1`\obj\Debug\net6.0\Abstract1.csproj.CoreCompileInputs.cache
+E:\SEM2\C#\Buoi6\View\Abstract1`\obj\Debug\net6.0\Abstract1.dll
+E:\SEM2\C#\Buoi6\View\Abstract1`\obj\Debug\net6.0\refint\Abstract1.dll
+E:\SEM2\C#\Buoi6\View\Abstract1`\obj\Debug\net6.0\Abstract1.pdb
+E:\SEM2\C#\Buoi6\View\Abstract1`\obj\Debug\net6.0\Abstract1.genruntimeconfig.cache
+E:\SEM2\C#\Buoi6\View\Abstract1`\obj\Debug\net6.0\ref\Abstract1.dll
